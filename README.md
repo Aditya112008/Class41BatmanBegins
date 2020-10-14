@@ -1,2 +1,1 @@
-# Class41BatmanBegins
-Class 41 project
+# PROC41-Template
